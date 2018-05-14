@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PrefereceFragment</string>
+    <string name="p">In-line preferences</string>
+    <string name="dialog">Dialog-based preference</string>
+    <string name="l">Launch preferences</string>
+    <string name="pre">Preference attributes</string>
+</resources>
